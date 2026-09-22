@@ -7,18 +7,19 @@
 ---
 
 ### 🚀 What I Do & Explore
-* 🌐 **Full Stack Web Development:** Membangunkan aplikasi web dari bahagian hadapan (*frontend*) hingga bahagian belakang (*backend*) serta pengurusan API.
-* 🕶️ **Augmented Reality (AR):** Meneroka pembangunan aplikasi realiti terimbuh interaktif dan integrasi 3D.
-* 📊 **Data Analysis Fundamentals:** Pemprosesan data asas, analisis statistik, serta visualisasi cerapan.
-* 🛡️ **Cybersecurity Basics:** Mempelajari asas keselamatan rangkaian, pertahanan sistem, dan amalan kod yang selamat (*secure coding*).
-* 💡 **Tech & IT Exploration:** Memahami sistem komputer, automasi, dan perkembangan teknologi terkini.
+
+* 🌐 **Full Stack Web Development:** Membangun aplikasi web end-to-end (*frontend* & *backend*) serta integrasi RESTful API.
+* 🕶️ **Augmented Reality (AR):** Mengembangkan aplikasi AR interaktif dan integrasi aset 3D.
+* 📊 **Data Analysis Fundamentals:** Pemrosesan data dasar, analisis statistik, dan visualisasi *insights*.
+* 🛡️ **Cybersecurity Basics:** Mempelajari keamanan jaringan dasar, pertahanan sistem, dan praktik *secure coding*.
+* 💡 **Tech & IT Exploration:** Mendalami arsitektur sistem komputer, otomatisasi, dan tren teknologi modern.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
+#### Languages & Web Development
 <p align="left">
-  <!-- Web Development -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -27,16 +28,16 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
+#### AR, Data & Security
 <p align="left">
-  <!-- AR, Data & Security -->
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity" />
   <img src="https://img.shields.io/badge/Augmented_Reality-FF6F00?style=for-the-badge&logoColor=white" alt="AR" />
   <img src="https://img.shields.io/badge/Cybersecurity_Basics-000000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity" />
   <img src="https://img.shields.io/badge/Data_Analysis-0052CC?style=for-the-badge&logoColor=white" alt="Data Analysis" />
 </p>
 
+#### Tools & Environment
 <p align="left">
-  <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
