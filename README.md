@@ -1,41 +1,44 @@
 <div align="center">
   <h1>Hi, I'm Sastraa 👋</h1>
-  <p><b>Software & Interactive Media Developer based in Indonesia 🇮🇩</b></p>
-  <p>Building interactive applications, data-driven solutions, and educational tools.</p>
+  <p><b>IT Enthusiast & Aspiring Full Stack Web Developer based in Indonesia 🇮🇩</b></p>
+  <p>Passionate about building responsive web applications, exploring cybersecurity, data analysis, and immersive technologies.</p>
 </div>
 
 ---
 
-### 🚀 What I Do
-* 💻 **Software & Web Development:** Building scalable tools & scripts using TypeScript, JavaScript, and Python.
-* 🎮 **Game Systems:** Mechanics, GUI, and Lua scripting in Roblox Studio, plus Unity (C#) & Minecraft Bedrock.
-* 🕶️ **Extended Reality (XR):** Interactive Augmented Reality (Vuforia) and 3D asset workflows (Blender).
-* 📊 **Data & Analytics:** Usability evaluation (SUS), data visualization, and business intelligence insights.
+### 🚀 What I Do & Explore
+* 🌐 **Full Stack Web Development:** Membangunkan aplikasi web dari bahagian hadapan (*frontend*) hingga bahagian belakang (*backend*) serta pengurusan API.
+* 🕶️ **Augmented Reality (AR):** Meneroka pembangunan aplikasi realiti terimbuh interaktif dan integrasi 3D.
+* 📊 **Data Analysis Fundamentals:** Pemprosesan data asas, analisis statistik, serta visualisasi cerapan.
+* 🛡️ **Cybersecurity Basics:** Mempelajari asas keselamatan rangkaian, pertahanan sistem, dan amalan kod yang selamat (*secure coding*).
+* 💡 **Tech & IT Exploration:** Memahami sistem komputer, automasi, dan perkembangan teknologi terkini.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
 <p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <!-- Web Development -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
 <p align="left">
-  <!-- Engines & 3D -->
+  <!-- AR, Data & Security -->
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity" />
-  <img src="https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Studio" />
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/Augmented_Reality-FF6F00?style=for-the-badge&logoColor=white" alt="AR" />
+  <img src="https://img.shields.io/badge/Cybersecurity_Basics-000000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Data_Analysis-0052CC?style=for-the-badge&logoColor=white" alt="Data Analysis" />
 </p>
 
 <p align="left">
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
